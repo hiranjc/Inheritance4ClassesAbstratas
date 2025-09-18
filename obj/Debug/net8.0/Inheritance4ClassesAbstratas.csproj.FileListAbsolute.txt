@@ -1,0 +1,14 @@
+C:\Users\ET73\Downloads\projetos-c#\Inheritance4ClassesAbstratas\obj\Debug\net8.0\Inheritance4ClassesAbstratas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET73\Downloads\projetos-c#\Inheritance4ClassesAbstratas\obj\Debug\net8.0\Inheritance4ClassesAbstratas.AssemblyInfoInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Inheritance4ClassesAbstratas\obj\Debug\net8.0\Inheritance4ClassesAbstratas.AssemblyInfo.cs
+C:\Users\ET73\Downloads\projetos-c#\Inheritance4ClassesAbstratas\obj\Debug\net8.0\Inheritance4ClassesAbstratas.csproj.CoreCompileInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Inheritance4ClassesAbstratas\bin\Debug\net8.0\Inheritance4ClassesAbstratas.exe
+C:\Users\ET73\Downloads\projetos-c#\Inheritance4ClassesAbstratas\bin\Debug\net8.0\Inheritance4ClassesAbstratas.deps.json
+C:\Users\ET73\Downloads\projetos-c#\Inheritance4ClassesAbstratas\bin\Debug\net8.0\Inheritance4ClassesAbstratas.runtimeconfig.json
+C:\Users\ET73\Downloads\projetos-c#\Inheritance4ClassesAbstratas\bin\Debug\net8.0\Inheritance4ClassesAbstratas.dll
+C:\Users\ET73\Downloads\projetos-c#\Inheritance4ClassesAbstratas\bin\Debug\net8.0\Inheritance4ClassesAbstratas.pdb
+C:\Users\ET73\Downloads\projetos-c#\Inheritance4ClassesAbstratas\obj\Debug\net8.0\Inheritance4ClassesAbstratas.dll
+C:\Users\ET73\Downloads\projetos-c#\Inheritance4ClassesAbstratas\obj\Debug\net8.0\refint\Inheritance4ClassesAbstratas.dll
+C:\Users\ET73\Downloads\projetos-c#\Inheritance4ClassesAbstratas\obj\Debug\net8.0\Inheritance4ClassesAbstratas.pdb
+C:\Users\ET73\Downloads\projetos-c#\Inheritance4ClassesAbstratas\obj\Debug\net8.0\Inheritance4ClassesAbstratas.genruntimeconfig.cache
+C:\Users\ET73\Downloads\projetos-c#\Inheritance4ClassesAbstratas\obj\Debug\net8.0\ref\Inheritance4ClassesAbstratas.dll
